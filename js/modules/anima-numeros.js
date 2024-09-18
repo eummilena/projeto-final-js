@@ -1,3 +1,4 @@
+
 export default class AnimaNumeros {
   constructor(numeros, observerTarget, observerClass) {
     this.numeros = document.querySelectorAll(numeros);
